@@ -1,7 +1,5 @@
 package Observer_Pattern;
 
-import java.util.Observable;
-
 public class TestDrive {
     public static void main(String[] args) {
         
